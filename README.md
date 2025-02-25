@@ -5,8 +5,9 @@
 ### Welcome to my Profile :octocat:
 
 - I’m a user interface developer for all kinds of platforms
-- Experienced with 3D graphics: [wgpu](https://wgpu.rs), OpenGL, WebGL
-- Rust, Dart, Flutter, Javascript, TypeScript, Swift, C, HTML/CSS
+- Sometimes I’m also doing full stack development, including serverless
+- Experienced with 3D graphics: [wgpu](https://wgpu.rs), OpenGL, WebGL (and a little bit of Vulkan)
+- Rust, Dart, Flutter, Javascript, TypeScript, Swift, C, SQL, HTML/CSS, Docker
 - Contributor to many open source projects
 - Freelancer, working on smaller jobs
 - Co-Founder of [DungeonFog](https://www.dungeonfog.com) and programmer of the Web-based editor
