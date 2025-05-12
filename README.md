@@ -8,12 +8,6 @@
 - Sometimes I’m also doing full stack development, including serverless
 - Experienced with 3D graphics: [wgpu](https://wgpu.rs), OpenGL, WebGL (and a little bit of Vulkan)
 - Rust, Dart, Flutter, Javascript, TypeScript, Swift, C, SQL, HTML/CSS, Docker
-- Contributor to many open source projects
-- Freelancer, working on smaller jobs
+- Contributor to many Open Source projects
+- Freelancer, contact me if you have a job in connection to one of my projects here!
 - Co-Founder of [DungeonFog](https://www.dungeonfog.com) and programmer of the Web-based editor
-
-<div>
-  <a href="https://github.com/anlumo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anlumo&count_private=true&theme=synthwave&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anlumo&layout=compact&langs_count=7&theme=synthwave"/>
-</div>
